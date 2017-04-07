@@ -1,0 +1,3 @@
+
+* The Collapse of the UNIX Philosophy
+  https://kukuruku.co/post/the-collapse-of-the-unix-philosophy/
