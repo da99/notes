@@ -1,0 +1,5 @@
+
+* Shortcuts to disable OSD information
+  lower-case i, lower-case o
+  * NOTE: The shortcuts say upper-case, but it's
+    a lower-case.
