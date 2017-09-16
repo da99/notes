@@ -13,3 +13,10 @@
   * See html.cr README.md: Just use unit tests and give up on macros and types
   for HTML verification.
 
+* Compile time verification in general:
+  * My desire is to verify everything at compile time.
+    However, the languages don't permit that. Compile-time
+    verification catches some errors, but they will never
+    REMOVE the necessity for unit-tests.
+    Compile-time "partial" verification + Unit tests = As close to perfection
+      regarding convenience and bug-free software.
