@@ -1,0 +1,15 @@
+
+* OCaml:
+  1) No method overloading with different types.
+  2) Easy at first, but gets harder for me to learn.
+  3) Fast compiler, but Crystal has ADTs and patter matching.
+     * Speed gains of compiler are wiped out by harder to use.
+
+* Nim: still too buggy with C's undefined behaviour (0.17.2)
+
+* D, DART: not as easy to use as Crystal
+
+* Compile time verification of HTML:
+  * See html.cr README.md: Just use unit tests and give up on macros and types
+  for HTML verification.
+
